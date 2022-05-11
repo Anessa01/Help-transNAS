@@ -92,6 +92,11 @@ class MetaLearner(nn.Module):
                                     hw_embed_on=hw_embed_on,
                                     hw_embed_dim=hw_embed_dim, 
                                     layer_size=layer_size)
+        elif search_space == 'transnasbench101':
+            self.meta_learner = GCN(nfeat=7,
+                                    hw_embed_on=hw_embed_on,
+                                    hw_embed_dim=hw_embed_dim,
+                                    layer_size=layer_size)
 
     def forward(self, X, hw_embed, adapted_params=None):
         if adapted_params == None:

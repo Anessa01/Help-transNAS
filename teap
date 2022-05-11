@@ -97,16 +97,7 @@ class HELP:
 
             # Set the logger
             set_logger(os.path.join(self.save_path, 'log.txt'))
-            if args.use_wandb:
-                wandb.init(entity="hayeonlee", 
-                            project=args.project, 
-                            name=args.exp_name, 
-                            group=args.group, 
-                            reinit=True)
-                wandb.config.update(args)   
-                writer = None     
-            else:
-                writer = SummaryWriter(log_dir=self.save_path)
+            writer = SummaryWriter(log_dir=self.save_path)
             self.log = {
                         'meta_train': Log(self.save_path, 
                                             self.save_summary_steps, 
