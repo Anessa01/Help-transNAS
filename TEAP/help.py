@@ -16,11 +16,9 @@ import torch
 import torch.nn as nn
 from torch.utils.tensorboard import SummaryWriter
 
-from net import MetaLearner
-from net import Net
-from net import InferenceNetwork
-from loader import Data
-from utils import *
+from TEAP.net import MetaLearner, Net, InferenceNetwork
+from TEAP.loader import Data
+from TEAP.utils import *
 
 
 

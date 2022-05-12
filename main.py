@@ -6,8 +6,8 @@
 
 import os
 import torch
-from parser import get_parser
-from help import HELP
+from TEAP.parser import get_parser
+from TEAP.help import HELP
 
 def main(args):
     set_seed(args)

@@ -11,7 +11,7 @@ from torch.nn import init
 from torch.nn.parameter import Parameter
 import numpy as np
 import math
-from utils import *
+from TEAP.utils import *
 
 
 class InferenceNetwork(nn.Module):

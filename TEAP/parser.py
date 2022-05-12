@@ -20,7 +20,7 @@ def get_parser():
     # General Settings
     parser.add_argument('--gpu', type=str, default='0', help='set visible gpus')
     parser.add_argument('--seed', type=int, default=3, help='set seed')
-    parser.add_argument('--mode', type=str, default=None, help='meta-train|meta-test|nas')
+    parser.add_argument('--mode', type=str, default='meta-train', help='meta-train|meta-test|nas')
     parser.add_argument('--main_path', type=str, default='.')
     parser.add_argument('--img_size', type=int, default=32, help='32|224')
     parser.add_argument('--metrics', type=str2list, default=["spearman"], help="metric for ranking correlation between real and estimated latencies of architectures.")

@@ -8,7 +8,7 @@ import random
 import numpy as np
 import torch
 
-from utils import *
+from TEAP.utils import *
 
 
 class Data:
