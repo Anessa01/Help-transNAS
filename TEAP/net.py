@@ -92,8 +92,8 @@ class MetaLearner(nn.Module):
                                     hw_embed_on=hw_embed_on,
                                     hw_embed_dim=hw_embed_dim, 
                                     layer_size=layer_size)
-        elif search_space == 'transnasbench101':
-            self.meta_learner = GCN(nfeat=7,
+        elif search_space == 'transnasbench':
+            self.meta_learner = GCN(nfeat=8,
                                     hw_embed_on=hw_embed_on,
                                     hw_embed_dim=hw_embed_dim,
                                     layer_size=layer_size)
