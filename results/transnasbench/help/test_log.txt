@@ -1,0 +1,4 @@
+[meta_test/jigsaw] spearman 0.444 MSE 0.051
+[meta_test/average] spearman 0.444 MSE 0.051 (1 devices)
+[meta_test/jigsaw] spearman 0.444 MSE 0.051
+[meta_test/average] spearman 0.444 MSE 0.051 (1 devices)

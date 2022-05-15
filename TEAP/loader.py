@@ -91,7 +91,7 @@ class Data:
                             add_global_node(_['adjacency_matrix'],ifAdj=True)]
                 for _ in torch.load(os.path.join(self.data_path, 'architecture.pt'))]
         elif self.search_space == 'transnasbench':
-            # operations and adjacency matrix of neural architectures in NAS-Bench-201
+            # operations and adjacency matrix of neural architectures in transnasbench
             self.archs = [[add_global_node(_['operation'], ifAdj=False), 
                             add_global_node(_['adjacency_matrix'],ifAdj=True)]
                 for _ in torch.load(os.path.join(self.data_path, 'architecture.pt'))]
@@ -176,6 +176,11 @@ class Data:
             x_finetune = torch.stack([self.archs[_] for _ in finetune_idx])
             x_qry = torch.stack([self.archs[_] for _ in self.valid_idx[device]])
         elif self.search_space == 'nasbench201':
+            x_finetune = [torch.stack([self.archs[_][0] for _ in finetune_idx]),
+                        torch.stack([self.archs[_][1] for _ in finetune_idx])]
+            x_qry = [torch.stack([self.archs[_][0] for _ in self.valid_idx[device]]),
+                    torch.stack([self.archs[_][1] for _ in self.valid_idx[device]])]
+        elif self.search_space == 'transnasbench':
             x_finetune = [torch.stack([self.archs[_][0] for _ in finetune_idx]),
                         torch.stack([self.archs[_][1] for _ in finetune_idx])]
             x_qry = [torch.stack([self.archs[_][0] for _ in self.valid_idx[device]]),

@@ -1,0 +1,240 @@
+2022-05-15 09:07:27,463:INFO: Episode 50/4000
+2022-05-15 09:07:28,290:INFO: [META_TRAIN] spearman: 0.077; mse_loss: 0.063; kl_loss: 83.702; 
+2022-05-15 09:07:28,462:INFO: [META_VALID] spearman: 0.084; mse_loss: 0.063; kl_loss: 83.702; 
+2022-05-15 09:07:35,007:INFO: Episode 100/4000
+2022-05-15 09:07:35,652:INFO: [META_TRAIN] spearman: 0.404; mse_loss: 0.067; kl_loss: 79.723; 
+2022-05-15 09:07:35,781:INFO: [META_VALID] spearman: 0.404; mse_loss: 0.065; kl_loss: 79.723; 
+2022-05-15 09:07:40,930:INFO: Episode 150/4000
+2022-05-15 09:07:41,596:INFO: [META_TRAIN] spearman: 0.428; mse_loss: 0.064; kl_loss: 76.404; 
+2022-05-15 09:07:41,731:INFO: [META_VALID] spearman: 0.428; mse_loss: 0.065; kl_loss: 76.404; 
+2022-05-15 09:07:47,739:INFO: Episode 200/4000
+2022-05-15 09:07:48,454:INFO: [META_TRAIN] spearman: 0.431; mse_loss: 0.057; kl_loss: 73.467; 
+2022-05-15 09:07:48,599:INFO: [META_VALID] spearman: 0.431; mse_loss: 0.054; kl_loss: 73.467; 
+2022-05-15 09:07:54,498:INFO: Episode 250/4000
+2022-05-15 09:07:55,136:INFO: [META_TRAIN] spearman: 0.435; mse_loss: 0.053; kl_loss: 70.717; 
+2022-05-15 09:07:55,262:INFO: [META_VALID] spearman: 0.435; mse_loss: 0.053; kl_loss: 70.717; 
+2022-05-15 09:08:00,692:INFO: Episode 300/4000
+2022-05-15 09:08:01,395:INFO: [META_TRAIN] spearman: 0.438; mse_loss: 0.054; kl_loss: 67.993; 
+2022-05-15 09:08:01,550:INFO: [META_VALID] spearman: 0.439; mse_loss: 0.053; kl_loss: 67.993; 
+2022-05-15 09:08:07,493:INFO: Episode 350/4000
+2022-05-15 09:08:08,197:INFO: [META_TRAIN] spearman: 0.441; mse_loss: 0.054; kl_loss: 65.153; 
+2022-05-15 09:08:08,346:INFO: [META_VALID] spearman: 0.441; mse_loss: 0.055; kl_loss: 65.153; 
+2022-05-15 09:08:13,373:INFO: Episode 400/4000
+2022-05-15 09:08:14,018:INFO: [META_TRAIN] spearman: 0.442; mse_loss: 0.052; kl_loss: 62.064; 
+2022-05-15 09:08:14,160:INFO: [META_VALID] spearman: 0.442; mse_loss: 0.054; kl_loss: 62.064; 
+2022-05-15 09:08:19,772:INFO: Episode 450/4000
+2022-05-15 09:08:20,444:INFO: [META_TRAIN] spearman: 0.444; mse_loss: 0.050; kl_loss: 58.626; 
+2022-05-15 09:08:20,581:INFO: [META_VALID] spearman: 0.444; mse_loss: 0.050; kl_loss: 58.626; 
+2022-05-15 09:08:26,090:INFO: Episode 500/4000
+2022-05-15 09:08:26,748:INFO: [META_TRAIN] spearman: 0.444; mse_loss: 0.050; kl_loss: 54.823; 
+2022-05-15 09:08:26,885:INFO: [META_VALID] spearman: 0.444; mse_loss: 0.049; kl_loss: 54.823; 
+2022-05-15 09:08:32,347:INFO: Episode 550/4000
+2022-05-15 09:08:33,011:INFO: [META_TRAIN] spearman: 0.441; mse_loss: 0.054; kl_loss: 50.734; 
+2022-05-15 09:08:33,147:INFO: [META_VALID] spearman: 0.441; mse_loss: 0.053; kl_loss: 50.734; 
+2022-05-15 09:08:38,887:INFO: Episode 600/4000
+2022-05-15 09:08:39,557:INFO: [META_TRAIN] spearman: 0.440; mse_loss: 0.052; kl_loss: 46.486; 
+2022-05-15 09:08:39,688:INFO: [META_VALID] spearman: 0.440; mse_loss: 0.052; kl_loss: 46.486; 
+2022-05-15 09:08:45,202:INFO: Episode 650/4000
+2022-05-15 09:08:45,857:INFO: [META_TRAIN] spearman: 0.437; mse_loss: 0.053; kl_loss: 42.207; 
+2022-05-15 09:08:45,994:INFO: [META_VALID] spearman: 0.438; mse_loss: 0.053; kl_loss: 42.207; 
+2022-05-15 09:08:52,023:INFO: Episode 700/4000
+2022-05-15 09:08:52,731:INFO: [META_TRAIN] spearman: 0.437; mse_loss: 0.052; kl_loss: 38.006; 
+2022-05-15 09:08:52,875:INFO: [META_VALID] spearman: 0.437; mse_loss: 0.052; kl_loss: 38.006; 
+2022-05-15 09:08:57,821:INFO: Episode 750/4000
+2022-05-15 09:08:58,239:INFO: [META_TRAIN] spearman: 0.436; mse_loss: 0.052; kl_loss: 33.970; 
+2022-05-15 09:08:58,328:INFO: [META_VALID] spearman: 0.436; mse_loss: 0.051; kl_loss: 33.970; 
+2022-05-15 09:09:02,472:INFO: Episode 800/4000
+2022-05-15 09:09:02,878:INFO: [META_TRAIN] spearman: 0.435; mse_loss: 0.053; kl_loss: 30.163; 
+2022-05-15 09:09:02,963:INFO: [META_VALID] spearman: 0.435; mse_loss: 0.053; kl_loss: 30.163; 
+2022-05-15 09:09:07,147:INFO: Episode 850/4000
+2022-05-15 09:09:07,553:INFO: [META_TRAIN] spearman: 0.438; mse_loss: 0.050; kl_loss: 26.629; 
+2022-05-15 09:09:07,642:INFO: [META_VALID] spearman: 0.438; mse_loss: 0.049; kl_loss: 26.629; 
+2022-05-15 09:09:17,383:INFO: Episode 900/4000
+2022-05-15 09:09:17,995:INFO: [META_TRAIN] spearman: 0.436; mse_loss: 0.050; kl_loss: 23.391; 
+2022-05-15 09:09:18,109:INFO: [META_VALID] spearman: 0.436; mse_loss: 0.050; kl_loss: 23.391; 
+2022-05-15 09:09:22,459:INFO: Episode 950/4000
+2022-05-15 09:09:23,075:INFO: [META_TRAIN] spearman: 0.437; mse_loss: 0.049; kl_loss: 20.459; 
+2022-05-15 09:09:23,203:INFO: [META_VALID] spearman: 0.437; mse_loss: 0.049; kl_loss: 20.459; 
+2022-05-15 09:09:28,428:INFO: Episode 1000/4000
+2022-05-15 09:09:28,987:INFO: [META_TRAIN] spearman: 0.436; mse_loss: 0.049; kl_loss: 17.829; 
+2022-05-15 09:09:29,103:INFO: [META_VALID] spearman: 0.436; mse_loss: 0.049; kl_loss: 17.829; 
+2022-05-15 09:09:34,214:INFO: Episode 1050/4000
+2022-05-15 09:09:34,801:INFO: [META_TRAIN] spearman: 0.435; mse_loss: 0.049; kl_loss: 15.487; 
+2022-05-15 09:09:34,925:INFO: [META_VALID] spearman: 0.435; mse_loss: 0.049; kl_loss: 15.487; 
+2022-05-15 09:09:39,655:INFO: Episode 1100/4000
+2022-05-15 09:09:40,222:INFO: [META_TRAIN] spearman: 0.433; mse_loss: 0.049; kl_loss: 13.415; 
+2022-05-15 09:09:40,336:INFO: [META_VALID] spearman: 0.433; mse_loss: 0.049; kl_loss: 13.415; 
+2022-05-15 09:09:44,937:INFO: Episode 1150/4000
+2022-05-15 09:09:45,507:INFO: [META_TRAIN] spearman: 0.431; mse_loss: 0.049; kl_loss: 11.589; 
+2022-05-15 09:09:45,623:INFO: [META_VALID] spearman: 0.432; mse_loss: 0.049; kl_loss: 11.589; 
+2022-05-15 09:09:50,068:INFO: Episode 1200/4000
+2022-05-15 09:09:50,649:INFO: [META_TRAIN] spearman: 0.427; mse_loss: 0.050; kl_loss: 9.987; 
+2022-05-15 09:09:50,773:INFO: [META_VALID] spearman: 0.424; mse_loss: 0.050; kl_loss: 9.987; 
+2022-05-15 09:09:55,621:INFO: Episode 1250/4000
+2022-05-15 09:09:56,190:INFO: [META_TRAIN] spearman: 0.426; mse_loss: 0.049; kl_loss: 8.586; 
+2022-05-15 09:09:56,304:INFO: [META_VALID] spearman: 0.427; mse_loss: 0.049; kl_loss: 8.586; 
+2022-05-15 09:10:00,626:INFO: Episode 1300/4000
+2022-05-15 09:10:01,212:INFO: [META_TRAIN] spearman: 0.401; mse_loss: 0.050; kl_loss: 7.364; 
+2022-05-15 09:10:01,331:INFO: [META_VALID] spearman: 0.402; mse_loss: 0.050; kl_loss: 7.364; 
+2022-05-15 09:10:06,148:INFO: Episode 1350/4000
+2022-05-15 09:10:06,732:INFO: [META_TRAIN] spearman: 0.411; mse_loss: 0.052; kl_loss: 6.301; 
+2022-05-15 09:10:06,852:INFO: [META_VALID] spearman: 0.422; mse_loss: 0.051; kl_loss: 6.301; 
+2022-05-15 09:10:12,257:INFO: Episode 1400/4000
+2022-05-15 09:10:12,883:INFO: [META_TRAIN] spearman: 0.407; mse_loss: 0.055; kl_loss: 5.380; 
+2022-05-15 09:10:13,013:INFO: [META_VALID] spearman: 0.406; mse_loss: 0.055; kl_loss: 5.380; 
+2022-05-15 09:10:17,758:INFO: Episode 1450/4000
+2022-05-15 09:10:18,388:INFO: [META_TRAIN] spearman: 0.403; mse_loss: 0.054; kl_loss: 4.583; 
+2022-05-15 09:10:18,521:INFO: [META_VALID] spearman: 0.406; mse_loss: 0.054; kl_loss: 4.583; 
+2022-05-15 09:10:23,962:INFO: Episode 1500/4000
+2022-05-15 09:10:24,635:INFO: [META_TRAIN] spearman: 0.397; mse_loss: 0.055; kl_loss: 3.894; 
+2022-05-15 09:10:24,775:INFO: [META_VALID] spearman: 0.417; mse_loss: 0.055; kl_loss: 3.894; 
+2022-05-15 09:10:30,067:INFO: Episode 1550/4000
+2022-05-15 09:10:30,709:INFO: [META_TRAIN] spearman: 0.390; mse_loss: 0.058; kl_loss: 3.302; 
+2022-05-15 09:10:30,839:INFO: [META_VALID] spearman: 0.378; mse_loss: 0.059; kl_loss: 3.302; 
+2022-05-15 09:10:36,389:INFO: Episode 1600/4000
+2022-05-15 09:10:37,053:INFO: [META_TRAIN] spearman: 0.393; mse_loss: 0.058; kl_loss: 2.793; 
+2022-05-15 09:10:37,185:INFO: [META_VALID] spearman: 0.391; mse_loss: 0.057; kl_loss: 2.793; 
+2022-05-15 09:10:42,358:INFO: Episode 1650/4000
+2022-05-15 09:10:42,989:INFO: [META_TRAIN] spearman: 0.391; mse_loss: 0.057; kl_loss: 2.358; 
+2022-05-15 09:10:43,118:INFO: [META_VALID] spearman: 0.403; mse_loss: 0.059; kl_loss: 2.358; 
+2022-05-15 09:10:48,947:INFO: Episode 1700/4000
+2022-05-15 09:10:49,620:INFO: [META_TRAIN] spearman: 0.391; mse_loss: 0.056; kl_loss: 1.985; 
+2022-05-15 09:10:49,758:INFO: [META_VALID] spearman: 0.390; mse_loss: 0.056; kl_loss: 1.985; 
+2022-05-15 09:10:55,062:INFO: Episode 1750/4000
+2022-05-15 09:10:55,646:INFO: [META_TRAIN] spearman: 0.390; mse_loss: 0.058; kl_loss: 1.668; 
+2022-05-15 09:10:55,762:INFO: [META_VALID] spearman: 0.384; mse_loss: 0.057; kl_loss: 1.668; 
+2022-05-15 09:11:00,487:INFO: Episode 1800/4000
+2022-05-15 09:11:01,123:INFO: [META_TRAIN] spearman: 0.376; mse_loss: 0.057; kl_loss: 1.397; 
+2022-05-15 09:11:01,255:INFO: [META_VALID] spearman: 0.378; mse_loss: 0.058; kl_loss: 1.397; 
+2022-05-15 09:11:07,072:INFO: Episode 1850/4000
+2022-05-15 09:11:07,757:INFO: [META_TRAIN] spearman: 0.377; mse_loss: 0.057; kl_loss: 1.168; 
+2022-05-15 09:11:07,899:INFO: [META_VALID] spearman: 0.369; mse_loss: 0.059; kl_loss: 1.168; 
+2022-05-15 09:11:13,128:INFO: Episode 1900/4000
+2022-05-15 09:11:13,785:INFO: [META_TRAIN] spearman: 0.390; mse_loss: 0.059; kl_loss: 0.974; 
+2022-05-15 09:11:13,921:INFO: [META_VALID] spearman: 0.380; mse_loss: 0.062; kl_loss: 0.974; 
+2022-05-15 09:11:19,485:INFO: Episode 1950/4000
+2022-05-15 09:11:20,079:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.060; kl_loss: 0.810; 
+2022-05-15 09:11:20,206:INFO: [META_VALID] spearman: 0.392; mse_loss: 0.057; kl_loss: 0.810; 
+2022-05-15 09:11:25,446:INFO: Episode 2000/4000
+2022-05-15 09:11:26,011:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.057; kl_loss: 0.672; 
+2022-05-15 09:11:26,126:INFO: [META_VALID] spearman: 0.387; mse_loss: 0.056; kl_loss: 0.672; 
+2022-05-15 09:11:34,755:INFO: Episode 2050/4000
+2022-05-15 09:11:35,408:INFO: [META_TRAIN] spearman: 0.373; mse_loss: 0.059; kl_loss: 0.555; 
+2022-05-15 09:11:35,543:INFO: [META_VALID] spearman: 0.359; mse_loss: 0.058; kl_loss: 0.555; 
+2022-05-15 09:11:40,466:INFO: Episode 2100/4000
+2022-05-15 09:11:41,091:INFO: [META_TRAIN] spearman: 0.377; mse_loss: 0.058; kl_loss: 0.458; 
+2022-05-15 09:11:41,218:INFO: [META_VALID] spearman: 0.373; mse_loss: 0.059; kl_loss: 0.458; 
+2022-05-15 09:11:46,165:INFO: Episode 2150/4000
+2022-05-15 09:11:46,810:INFO: [META_TRAIN] spearman: 0.372; mse_loss: 0.059; kl_loss: 0.376; 
+2022-05-15 09:11:46,940:INFO: [META_VALID] spearman: 0.377; mse_loss: 0.058; kl_loss: 0.376; 
+2022-05-15 09:11:52,403:INFO: Episode 2200/4000
+2022-05-15 09:11:53,168:INFO: [META_TRAIN] spearman: 0.368; mse_loss: 0.059; kl_loss: 0.308; 
+2022-05-15 09:11:53,318:INFO: [META_VALID] spearman: 0.362; mse_loss: 0.061; kl_loss: 0.308; 
+2022-05-15 09:11:58,163:INFO: Episode 2250/4000
+2022-05-15 09:11:58,813:INFO: [META_TRAIN] spearman: 0.375; mse_loss: 0.058; kl_loss: 0.252; 
+2022-05-15 09:11:58,947:INFO: [META_VALID] spearman: 0.370; mse_loss: 0.058; kl_loss: 0.252; 
+2022-05-15 09:12:05,072:INFO: Episode 2300/4000
+2022-05-15 09:12:05,683:INFO: [META_TRAIN] spearman: 0.375; mse_loss: 0.059; kl_loss: 0.205; 
+2022-05-15 09:12:05,807:INFO: [META_VALID] spearman: 0.380; mse_loss: 0.061; kl_loss: 0.205; 
+2022-05-15 09:12:10,833:INFO: Episode 2350/4000
+2022-05-15 09:12:11,498:INFO: [META_TRAIN] spearman: 0.365; mse_loss: 0.058; kl_loss: 0.166; 
+2022-05-15 09:12:11,634:INFO: [META_VALID] spearman: 0.361; mse_loss: 0.058; kl_loss: 0.166; 
+2022-05-15 09:12:17,280:INFO: Episode 2400/4000
+2022-05-15 09:12:17,923:INFO: [META_TRAIN] spearman: 0.368; mse_loss: 0.061; kl_loss: 0.134; 
+2022-05-15 09:12:18,057:INFO: [META_VALID] spearman: 0.378; mse_loss: 0.060; kl_loss: 0.134; 
+2022-05-15 09:12:23,677:INFO: Episode 2450/4000
+2022-05-15 09:12:24,248:INFO: [META_TRAIN] spearman: 0.367; mse_loss: 0.058; kl_loss: 0.108; 
+2022-05-15 09:12:24,358:INFO: [META_VALID] spearman: 0.371; mse_loss: 0.058; kl_loss: 0.108; 
+2022-05-15 09:12:28,808:INFO: Episode 2500/4000
+2022-05-15 09:12:29,387:INFO: [META_TRAIN] spearman: 0.375; mse_loss: 0.060; kl_loss: 0.086; 
+2022-05-15 09:12:29,502:INFO: [META_VALID] spearman: 0.380; mse_loss: 0.060; kl_loss: 0.086; 
+2022-05-15 09:12:34,129:INFO: Episode 2550/4000
+2022-05-15 09:12:34,731:INFO: [META_TRAIN] spearman: 0.373; mse_loss: 0.060; kl_loss: 0.069; 
+2022-05-15 09:12:34,856:INFO: [META_VALID] spearman: 0.363; mse_loss: 0.061; kl_loss: 0.069; 
+2022-05-15 09:12:39,299:INFO: Episode 2600/4000
+2022-05-15 09:12:39,859:INFO: [META_TRAIN] spearman: 0.373; mse_loss: 0.061; kl_loss: 0.055; 
+2022-05-15 09:12:39,973:INFO: [META_VALID] spearman: 0.374; mse_loss: 0.061; kl_loss: 0.055; 
+2022-05-15 09:12:44,975:INFO: Episode 2650/4000
+2022-05-15 09:12:45,726:INFO: [META_TRAIN] spearman: 0.358; mse_loss: 0.060; kl_loss: 0.043; 
+2022-05-15 09:12:45,879:INFO: [META_VALID] spearman: 0.364; mse_loss: 0.060; kl_loss: 0.043; 
+2022-05-15 09:12:51,982:INFO: Episode 2700/4000
+2022-05-15 09:12:52,631:INFO: [META_TRAIN] spearman: 0.371; mse_loss: 0.060; kl_loss: 0.034; 
+2022-05-15 09:12:52,765:INFO: [META_VALID] spearman: 0.361; mse_loss: 0.060; kl_loss: 0.034; 
+2022-05-15 09:12:58,532:INFO: Episode 2750/4000
+2022-05-15 09:12:59,243:INFO: [META_TRAIN] spearman: 0.373; mse_loss: 0.060; kl_loss: 0.027; 
+2022-05-15 09:12:59,389:INFO: [META_VALID] spearman: 0.381; mse_loss: 0.060; kl_loss: 0.027; 
+2022-05-15 09:13:05,814:INFO: Episode 2800/4000
+2022-05-15 09:13:06,552:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.058; kl_loss: 0.021; 
+2022-05-15 09:13:06,706:INFO: [META_VALID] spearman: 0.378; mse_loss: 0.060; kl_loss: 0.021; 
+2022-05-15 09:13:13,064:INFO: Episode 2850/4000
+2022-05-15 09:13:13,804:INFO: [META_TRAIN] spearman: 0.373; mse_loss: 0.060; kl_loss: 0.016; 
+2022-05-15 09:13:13,953:INFO: [META_VALID] spearman: 0.376; mse_loss: 0.059; kl_loss: 0.016; 
+2022-05-15 09:13:20,246:INFO: Episode 2900/4000
+2022-05-15 09:13:20,934:INFO: [META_TRAIN] spearman: 0.367; mse_loss: 0.059; kl_loss: 0.012; 
+2022-05-15 09:13:21,077:INFO: [META_VALID] spearman: 0.380; mse_loss: 0.056; kl_loss: 0.012; 
+2022-05-15 09:13:26,597:INFO: Episode 2950/4000
+2022-05-15 09:13:27,244:INFO: [META_TRAIN] spearman: 0.363; mse_loss: 0.059; kl_loss: 0.009; 
+2022-05-15 09:13:27,380:INFO: [META_VALID] spearman: 0.362; mse_loss: 0.059; kl_loss: 0.009; 
+2022-05-15 09:13:33,067:INFO: Episode 3000/4000
+2022-05-15 09:13:33,711:INFO: [META_TRAIN] spearman: 0.377; mse_loss: 0.059; kl_loss: 0.007; 
+2022-05-15 09:13:33,837:INFO: [META_VALID] spearman: 0.376; mse_loss: 0.060; kl_loss: 0.007; 
+2022-05-15 09:13:38,729:INFO: Episode 3050/4000
+2022-05-15 09:13:39,298:INFO: [META_TRAIN] spearman: 0.380; mse_loss: 0.061; kl_loss: 0.005; 
+2022-05-15 09:13:39,413:INFO: [META_VALID] spearman: 0.380; mse_loss: 0.059; kl_loss: 0.005; 
+2022-05-15 09:13:43,929:INFO: Episode 3100/4000
+2022-05-15 09:13:44,563:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.058; kl_loss: 0.004; 
+2022-05-15 09:13:44,695:INFO: [META_VALID] spearman: 0.373; mse_loss: 0.058; kl_loss: 0.004; 
+2022-05-15 09:13:50,150:INFO: Episode 3150/4000
+2022-05-15 09:13:50,798:INFO: [META_TRAIN] spearman: 0.371; mse_loss: 0.059; kl_loss: 0.003; 
+2022-05-15 09:13:50,930:INFO: [META_VALID] spearman: 0.370; mse_loss: 0.061; kl_loss: 0.003; 
+2022-05-15 09:13:56,276:INFO: Episode 3200/4000
+2022-05-15 09:13:56,908:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.059; kl_loss: 0.002; 
+2022-05-15 09:13:57,039:INFO: [META_VALID] spearman: 0.375; mse_loss: 0.059; kl_loss: 0.002; 
+2022-05-15 09:14:02,289:INFO: Episode 3250/4000
+2022-05-15 09:14:02,954:INFO: [META_TRAIN] spearman: 0.377; mse_loss: 0.060; kl_loss: 0.002; 
+2022-05-15 09:14:03,099:INFO: [META_VALID] spearman: 0.376; mse_loss: 0.060; kl_loss: 0.002; 
+2022-05-15 09:14:08,916:INFO: Episode 3300/4000
+2022-05-15 09:14:09,490:INFO: [META_TRAIN] spearman: 0.372; mse_loss: 0.061; kl_loss: 0.001; 
+2022-05-15 09:14:09,605:INFO: [META_VALID] spearman: 0.378; mse_loss: 0.059; kl_loss: 0.001; 
+2022-05-15 09:14:17,887:INFO: Episode 3350/4000
+2022-05-15 09:14:18,512:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.060; kl_loss: 0.001; 
+2022-05-15 09:14:18,642:INFO: [META_VALID] spearman: 0.383; mse_loss: 0.059; kl_loss: 0.001; 
+2022-05-15 09:14:23,574:INFO: Episode 3400/4000
+2022-05-15 09:14:24,195:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.060; kl_loss: 0.001; 
+2022-05-15 09:14:24,323:INFO: [META_VALID] spearman: 0.375; mse_loss: 0.062; kl_loss: 0.001; 
+2022-05-15 09:14:29,265:INFO: Episode 3450/4000
+2022-05-15 09:14:29,890:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.058; kl_loss: 0.000; 
+2022-05-15 09:14:30,020:INFO: [META_VALID] spearman: 0.376; mse_loss: 0.058; kl_loss: 0.000; 
+2022-05-15 09:14:35,168:INFO: Episode 3500/4000
+2022-05-15 09:14:35,857:INFO: [META_TRAIN] spearman: 0.374; mse_loss: 0.059; kl_loss: 0.000; 
+2022-05-15 09:14:35,997:INFO: [META_VALID] spearman: 0.371; mse_loss: 0.058; kl_loss: 0.000; 
+2022-05-15 09:14:41,218:INFO: Episode 3550/4000
+2022-05-15 09:14:41,865:INFO: [META_TRAIN] spearman: 0.377; mse_loss: 0.060; kl_loss: 0.000; 
+2022-05-15 09:14:41,998:INFO: [META_VALID] spearman: 0.375; mse_loss: 0.060; kl_loss: 0.000; 
+2022-05-15 09:14:47,387:INFO: Episode 3600/4000
+2022-05-15 09:14:48,021:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.062; kl_loss: 0.000; 
+2022-05-15 09:14:48,151:INFO: [META_VALID] spearman: 0.374; mse_loss: 0.062; kl_loss: 0.000; 
+2022-05-15 09:14:53,748:INFO: Episode 3650/4000
+2022-05-15 09:14:54,374:INFO: [META_TRAIN] spearman: 0.376; mse_loss: 0.059; kl_loss: 0.000; 
+2022-05-15 09:14:54,501:INFO: [META_VALID] spearman: 0.377; mse_loss: 0.057; kl_loss: 0.000; 
+2022-05-15 09:14:59,774:INFO: Episode 3700/4000
+2022-05-15 09:15:00,426:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.060; kl_loss: 0.000; 
+2022-05-15 09:15:00,558:INFO: [META_VALID] spearman: 0.381; mse_loss: 0.059; kl_loss: 0.000; 
+2022-05-15 09:15:06,279:INFO: Episode 3750/4000
+2022-05-15 09:15:06,915:INFO: [META_TRAIN] spearman: 0.378; mse_loss: 0.061; kl_loss: 0.000; 
+2022-05-15 09:15:07,040:INFO: [META_VALID] spearman: 0.376; mse_loss: 0.060; kl_loss: 0.000; 
+2022-05-15 09:15:11,484:INFO: Episode 3800/4000
+2022-05-15 09:15:12,123:INFO: [META_TRAIN] spearman: 0.379; mse_loss: 0.061; kl_loss: 0.000; 
+2022-05-15 09:15:12,253:INFO: [META_VALID] spearman: 0.383; mse_loss: 0.059; kl_loss: 0.000; 
+2022-05-15 09:15:18,782:INFO: Episode 3850/4000
+2022-05-15 09:15:19,484:INFO: [META_TRAIN] spearman: 0.381; mse_loss: 0.062; kl_loss: 0.000; 
+2022-05-15 09:15:19,629:INFO: [META_VALID] spearman: 0.384; mse_loss: 0.061; kl_loss: 0.000; 
+2022-05-15 09:15:25,819:INFO: Episode 3900/4000
+2022-05-15 09:15:26,514:INFO: [META_TRAIN] spearman: 0.384; mse_loss: 0.058; kl_loss: 0.000; 
+2022-05-15 09:15:26,659:INFO: [META_VALID] spearman: 0.389; mse_loss: 0.057; kl_loss: 0.000; 
+2022-05-15 09:15:33,192:INFO: Episode 3950/4000
+2022-05-15 09:15:33,939:INFO: [META_TRAIN] spearman: 0.385; mse_loss: 0.059; kl_loss: 0.000; 
+2022-05-15 09:15:34,091:INFO: [META_VALID] spearman: 0.385; mse_loss: 0.060; kl_loss: 0.000; 
+2022-05-15 09:15:40,125:INFO: Episode 4000/4000
+2022-05-15 09:15:40,787:INFO: [META_TRAIN] spearman: 0.382; mse_loss: 0.058; kl_loss: 0.000; 
+2022-05-15 09:15:40,916:INFO: [META_VALID] spearman: 0.388; mse_loss: 0.058; kl_loss: 0.000; 

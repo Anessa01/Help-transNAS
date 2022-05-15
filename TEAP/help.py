@@ -166,7 +166,7 @@ class HELP:
             xs, ys = xs.cuda(), ys.cuda()
         elif self.search_space == 'nasbench201':
             xs, ys = (xs[0].cuda(), xs[1].cuda()), ys.cuda() 
-        elif self.search_space == 'transnasbench101':
+        elif self.search_space == 'transnasbench':
             xs, ys = (xs[0].cuda(), xs[1].cuda()), ys.cuda()
         hw_embed = hw_embed.cuda()
         if self.z_on:
@@ -226,6 +226,8 @@ class HELP:
                     if self.search_space in ['fbnet', 'ofa']:
                         xq, yq = xq.cuda(), yq.cuda()
                     elif self.search_space == 'nasbench201':
+                        xq, yq = (xq[0].cuda(), xq[1].cuda()), yq.cuda()
+                    elif self.search_space == 'transnasbench':
                         xq, yq = (xq[0].cuda(), xq[1].cuda()), yq.cuda()
                     hw_embed = hw_embed.cuda()
                     adapted_state_dict = adapted_state_dicts[i_task]
@@ -313,6 +315,8 @@ class HELP:
                     xq, yq = xq.cuda(), yq.cuda()
                 elif self.search_space == 'nasbench201':
                     xq, yq = (xq[0].cuda(), xq[1].cuda()), yq.cuda()
+                elif self.search_space == 'transnasbench':
+                    xq, yq = (xq[0].cuda(), xq[1].cuda()), yq.cuda()
                 hw_embed = hw_embed.cuda()
                 yq_hat = self.model(xq, hw_embed, adapted_state_dict)
                 if yq_hat_mean is None:
@@ -334,6 +338,10 @@ class HELP:
                     msg += f'{m} {metrics_fn[m](yq_hat, yq)[0]:.3f} '
                     avg_metrics[m] += metrics_fn[m](yq_hat, yq)[0]
                 msg += f'MSE {loss.item():.3f}'
+                L = yq_hat-yq
+                print(np.mean(np.abs(yq_hat - yq)) / np.mean(yq))
+
+                msg += f'ACCU {np.mean(np.abs(yq_hat - yq)) / np.mean(yq):.3f}'
                 avg_metrics['mse_loss'] += loss.item()
                 f.write(msg+'\n')
                 print(msg)
